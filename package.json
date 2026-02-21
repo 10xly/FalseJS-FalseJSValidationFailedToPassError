@@ -1,0 +1,26 @@
+{
+  "name": "@falsejs/validation-failed-to-pass-error",
+  "version": "1.0.0",
+  "description": "FalseJSValidationFailedToPassError",
+  "keywords": [
+    "Flase"
+  ],
+  "homepage": "https://github.com/10xly/FalseJS-FalseJSValidationFailedToPassError#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/FalseJS-FalseJSValidationFailedToPassError/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/FalseJS-FalseJSValidationFailedToPassError.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "es-error-intrinsics": "^1.0.1"
+  }
+}
